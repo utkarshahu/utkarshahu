@@ -1,5 +1,43 @@
-# 💫 About Me:
-### 👨‍💻 I'm currently working on  <br>- Full-stack web apps with modern UI/UX  <br>- Learning backend integration using MongoDB and Node.js  <br>- Cloning award-winning websites with animations (GSAP, Shery.js)<br><br>### 🤝 I'm looking to collaborate on  <br>- Frontend animation-based projects  <br>- AI/ML mini projects for beginners  <br>- Open source projects focused on web or design<br><br>### 💬 I'm looking for help with  <br>- Authentication systems (Login/Signup with MongoDB)  <br>- Optimizing website performance and deployment  <br>- AI/ML model integration with web apps<br><br>### 🌱 I'm currently learning  <br>- Node.js, Express.js & MongoDB  <br>- Python for AI/ML  <br>- DSA using LeetCode<br><br>### 💡 Ask me about  <br>- Frontend animations (GSAP, Shery.js)  <br>- How to clone modern UIs  <br>- BCA journey, coding tips for beginners<br><br>### ⚡ Fun fact  <br>I love mixing **creativity with code** — animations are my favorite playground!  <br>Also, I enjoy drawing, podcasts, and kabaddi when I’m not coding.<br>
+# 💫 About Me
+
+### 👨‍💻 I'm currently working on  
+- Full-stack web apps with modern UI/UX  
+- Learning backend integration using MongoDB and Node.js  
+- Cloning award-winning websites with animations (GSAP, Shery.js)
+
+---
+
+### 🤝 I'm looking to collaborate on  
+- Frontend animation-based projects  
+- AI/ML mini projects for beginners  
+- Open-source projects focused on web or design
+
+---
+
+### 💬 I'm looking for help with  
+- Authentication systems (Login/Signup with MongoDB)  
+- Optimizing website performance and deployment  
+- AI/ML model integration with web apps
+
+---
+
+### 🌱 I'm currently learning  
+- Node.js, Express.js & MongoDB  
+- Python for AI/ML  
+- DSA using LeetCode
+
+---
+
+### 💡 Ask me about  
+- Frontend animations (GSAP, Shery.js)  
+- How to clone modern UIs  
+- BCA journey, coding tips for beginners
+
+---
+
+### ⚡ Fun Fact  
+I love mixing **creativity with code** — animations are my favorite playground!  
+Also, I enjoy drawing, podcasts, and kabaddi when I’m not coding.
 
 
 ## 🌐 Socials:

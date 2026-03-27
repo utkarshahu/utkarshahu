@@ -1,13 +1,13 @@
 # 💫 About Me
 
-### 👨‍💻 I'm currently working on  
+###  I'm currently working on  
 - Full-stack web apps with modern UI/UX  
 - Learning backend integration using MongoDB and Node.js  
 - Cloning award-winning websites with animations (GSAP, Shery.js)
 
 ---
 
-### 🤝 I'm looking to collaborate on  
+###  I'm looking to collaborate on  
 - Frontend animation-based projects  
 - AI/ML mini projects for beginners  
 - Open-source projects focused on web or design
